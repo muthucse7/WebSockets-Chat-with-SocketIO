@@ -1,0 +1,15 @@
+{
+  "name": "websockets-chat-with-socketio",
+  "version": "1.0.0",
+  "description": "Open your web browser and navigate to http://localhost:3000 to access the chat application.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Muthu Selvam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
